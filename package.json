@@ -1,0 +1,27 @@
+{
+  "name": "flashloan-dex-communication",
+  "version": "18.8.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/zahramuqadas/flashloan-dex-communication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/zahramuqadas/flashloan-dex-communication/issues"
+  },
+  "homepage": "https://gitlab.com/zahramuqadas/flashloan-dex-communication#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.19",
+    "request": "^2.88.2"
+  }
+}
